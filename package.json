@@ -4,8 +4,8 @@
   "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
   "main": "index.js",
   "devDependencies": {
-    "browser-sync": "^2.18.13",
-    "run-script-os": "^1.0.2"
+    "browser-sync": "^2.29.3",
+    "run-script-os": "^1.1.6"
   },
   "scripts": {
     "start": "run-script-os",
@@ -16,17 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": ""
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
-  "dependencies": {}
+  "homepage": ""
 }
